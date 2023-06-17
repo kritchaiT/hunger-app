@@ -1,0 +1,35 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.footer-box {
+    padding: 0 0 0 0;
+    width: 355px;
+    height: 62px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.review {
+    width: 162px;
+    height: 41px;
+    background-color: #565656;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.review a {
+    text-decoration: none;
+    color: #fff;
+}
