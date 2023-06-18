@@ -1,0 +1,32 @@
+{
+    "types" : [
+        {
+            "type" : "cafe",
+            "thumbnail" : "/pexels-nam-quân-nguyễn-16221203.jpg"
+        },
+        {
+            "type" : "fastfood",
+            "thumbnail" : "/pexels-pixabay-327158.jpg"
+        },
+        {
+            "type" : "Local",
+            "thumbnail" : "/"
+        },
+        {
+            "type" : "Bakery",
+            "thumbnail" : "/pexels-valeria-boltneva-17138079.jpg"
+        },
+        {
+            "type" : "Shabu",
+            "thumbnail" : "/various-ingredients-shabu-hot-pot-with-sauce.jpg"
+        },
+        {
+            "type" : "Mookrata",
+            "thumbnail" : "/pork-charcoal-grill.jpg"
+        },
+        {
+            "type" : "Thai food",
+            "thumbnail" : "/basil-minced-pork-with-rice-fried-egg.jpg"
+        }
+    ]
+}

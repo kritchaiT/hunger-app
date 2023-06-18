@@ -40,6 +40,13 @@
     display: none;
 }
 
+.menu-link a:hover{
+    background-color: rgb(255, 255, 255);
+    color: #111;
+    width: 100px;
+    height: 50px;
+}
+
 @media screen and (max-width: 480px) {
     .mobile-menu {
         display: block;

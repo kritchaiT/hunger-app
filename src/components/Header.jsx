@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import "./Header.css"
 import { FiMenu, FiX } from "react-icons/fi";
 
-function Header() {
+function Header(props) {
 
     const [click, setClick] = useState(false)
     const handleClick = () => setClick(!click) /*switch click and unclick*/

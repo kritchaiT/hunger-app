@@ -10,7 +10,7 @@ const Footer = () => {
             </li>
             <li>
                 <li className="review">
-                    <a href="/">CHECK IN</a>
+                    <a href="/">SAVED</a>
                 </li>
             </li>
         </ul>
